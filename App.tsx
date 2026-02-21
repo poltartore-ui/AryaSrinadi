@@ -1,3 +1,4 @@
+src/App.tsx
 import { useState, useEffect, useRef } from "react";
 import { motion, AnimatePresence, Reorder } from "motion/react";
 import { Menu, X, ArrowLeft, Plus, ChevronLeft, ChevronRight, Edit3, Save, Upload, Trash2, Heart, GripVertical, LayoutGrid } from "lucide-react";
