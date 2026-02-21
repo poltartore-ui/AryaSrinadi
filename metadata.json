@@ -1,0 +1,8 @@
+{
+  "name": "AryaSrinadi",
+  "description": "A sophisticated personal portfolio and memory sharing platform with direct Google Drive integration and in-app editing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
